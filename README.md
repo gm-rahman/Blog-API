@@ -25,7 +25,7 @@ The Blog API is a RESTful API built with Node.js and Express for managing blog p
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Mahfuz-bot/Blog-API
+   git clone https://github.com/Mahfuz-bot/Blog-API.git
    cd blog-api
    ```
 
